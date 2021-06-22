@@ -1,11 +1,62 @@
-.tg  {border-collapse:collapse;border-spacing:0;}
+body {
+  background-color: #fde48c; 
+}
+
+h1 {
+  font-size:4em; 
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #b2182d;
+}
+
+h2 {
+  font-size:2em; 
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 1em;
+  color: #10107d;
+}
+
+p {
+  font-size:1em; 
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #000000;
+}
+
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.tg  {
+  border-collapse:collapse;
+  border-spacing:0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
+
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+
 .tg .tg-ate8{background-color:#ffc702;text-align:center;vertical-align:top}
+
 .tg .tg-coud{background-color:#009901;text-align:center;vertical-align:top}
+
 .tg .tg-lbzb{background-color:#fe0000;text-align:center;vertical-align:top}
+
 .tg .tg-apku{background-color:#f8a102;text-align:center;vertical-align:top}
+
 .tg .tg-4luf{background-color:#656565;text-align:center;vertical-align:top}
+
 .tg .tg-d53b{background-color:#dae8fc;text-align:center;vertical-align:top}
